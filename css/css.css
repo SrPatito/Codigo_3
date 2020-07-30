@@ -1,0 +1,22 @@
+* {
+margin: 0;
+padding: 0;
+}
+.section {
+    
+width: 1200px;
+height: 500px;
+position: relative;
+background-color: #FE941A;
+margin: auto;
+margin-top: 125px; 
+font-family: Helvetica;
+font-size:  24.8px;    
+color: white;
+    
+}    
+.borde, td{
+border: 1.5px solid white;
+padding: 15px;
+}
+
